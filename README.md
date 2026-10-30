@@ -8,6 +8,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ilovesoftwaress-ai/Satya-coding-journey/tree/master/0001-two-sum) |
 | [0389-find-the-difference](https://github.com/ilovesoftwaress-ai/Satya-coding-journey/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -21,4 +22,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ilovesoftwaress-ai/Satya-coding-journey/tree/master/0389-find-the-difference) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ilovesoftwaress-ai/Satya-coding-journey/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
